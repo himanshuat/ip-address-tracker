@@ -107,6 +107,7 @@ button[type="submit"]:hover {
     margin-top: .7rem;
     font-weight: 500;
     letter-spacing: .2px;
+    word-wrap: break-word;
 }
 
 #modal {
